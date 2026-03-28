@@ -1,7 +1,7 @@
 {
   "name": "blue-prince-room-index",
   "version": 1,
-  "count": 110,
+  "count": 115,
   "rooms": [
     {
       "id": 1,
@@ -273,7 +273,7 @@
       ],
       "rarity": "Cost",
       "cost": "Commonplace",
-      "description": "The is a Commonplace room with two doors, placed in an L-shape. It contains a Key , which can be found on the main table. Additionally, there is a black note (A journey Noteworthy) on the table beside the right door: “ As you continue on your adventure, you may want to consider getting something to scribble down your notes and observations.",
+      "description": "The is a Commonplace room with two doors, placed in an L-shape. It contains a Key , which can be found on the main table. Additionally, there is a black note (A journey Noteworthy) on the table beside the right door: \u201c As you continue on your adventure, you may want to consider getting something to scribble down your notes and observations.",
       "directoryBlurb": "A snug corner reading room which serves as a quiet, private place for guests to spend a few hours of their afternoon away from the hustle and bustle of the staff.",
       "unlock": null,
       "secrets": [
@@ -823,7 +823,7 @@
       ],
       "rarity": "Cost",
       "cost": "Standard",
-      "description": "This room can be found quite early on in a new game, but is likely of much more use to you later. It allows you to \"check\" any item — effectively putting it into a separate inventory, inaccessible outside this room — and it will be available for retrieval later on in the day, or even after starting a new day. You may also take an item out of the Coat Check, put it back on the same day, and retrieve it another day, all without repercussions. Doing those things, in fact, may be downright necessary by endgame, assuring this perhaps inconsequential-seeming room never loses its importance. It is one of the few rooms that can avoid being completely concealed by the Archives",
+      "description": "This room can be found quite early on in a new game, but is likely of much more use to you later. It allows you to \"check\" any item \u2014 effectively putting it into a separate inventory, inaccessible outside this room \u2014 and it will be available for retrieval later on in the day, or even after starting a new day. You may also take an item out of the Coat Check, put it back on the same day, and retrieve it another day, all without repercussions. Doing those things, in fact, may be downright necessary by endgame, assuring this perhaps inconsequential-seeming room never loses its importance. It is one of the few rooms that can avoid being completely concealed by the Archives",
       "directoryBlurb": "A cloakroom where guests may leave their coats, bags or hats in exchange for a claim ticket. This floor plan was usually drafted adjoining the Entrance Hall during larger social events such as a ball or gala.",
       "unlock": null,
       "secrets": [
@@ -1783,7 +1783,7 @@
       "cost": "Standard",
       "description": "This functions as both a forge and a shop, allowing one to pay for several ancient weapons. On entry, you are given a choice of 3 objects you can purchase from a small pool. Shop Item Price Effect Morning Star 8 Gold Functions as a",
       "directoryBlurb": "A stone chamber fitted with ancient weapons and armor from the Second Era. This room appears to predate almost every other room in the house directory and may in fact be an authentic floorplan from one of the lost strongholds of Orinda Aries.",
-      "unlock": "Solve the Chessboard Puzzle “ A stone chamber fitted with ancient weapons and armor from the Second Era. This room appears to predate almost every other room in the house directory and may in fact be an authentic floorplan from one of the lost strongholds of Orinda Aries. — Mount Holly Directory The Armory is one of the rooms found in Blue Prince .",
+      "unlock": "Solve the Chessboard Puzzle \u201c A stone chamber fitted with ancient weapons and armor from the Second Era. This room appears to predate almost every other room in the house directory and may in fact be an authentic floorplan from one of the lost strongholds of Orinda Aries. \u2014 Mount Holly Directory The Armory is one of the rooms found in Blue Prince .",
       "secrets": [],
       "icon": "icons/077-the-armory.png"
     },
@@ -2061,7 +2061,7 @@
       "cost": "Standard",
       "description": "The room consists of a straight pathway between two rows of stalls on either side of the room. There is a shelf between the stalls on the left, which may contain an item (very often a certain key) and there appear to be several dog doors leading between stalls and even out of the room, which suggests the dogs may come and go into one another's spaces - or the manor itself - as they wish. One of the stall doors is unlocked, implying a single dog may be loose on the Grounds . This is supported by the fact that if you trigger the effect of this room, you will hear a dog barking (the sound of which tells you the effect has worked). If you return here afterwards, you may find new dig spots for every instance of activation; having the Root Cellar",
       "directoryBlurb": "Home to several of Sinclair's hunting companions. It can be assumed these friendly hounds have been anxious to meet their new master.",
-      "unlock": "Random chance in Drafting Studio . “ Home to several of Sinclair's hunting companions. It can be assumed these friendly hounds have been anxious to meet their new master. — Mount Holly Directory The Kennel is one of the rooms found in Blue Prince .",
+      "unlock": "Random chance in Drafting Studio . \u201c Home to several of Sinclair's hunting companions. It can be assumed these friendly hounds have been anxious to meet their new master. \u2014 Mount Holly Directory The Kennel is one of the rooms found in Blue Prince .",
       "secrets": [
         "Blue Tents - Hot Dog!"
       ],
@@ -2164,7 +2164,7 @@
       "cost": "Standard",
       "description": "The has the Drafting Strategy Vol. 2 book on its desk",
       "directoryBlurb": "These small sleeping quarters, devoid of frills and distractions, are ideal for the student, scholar or denizen of academia who wish to focus on their studies without interruption. Study and sleep. Rinse and repeat.",
-      "unlock": "Random chance in Drafting Studio . “ These small sleeping quarters, devoid of frills and distractions, are ideal for the student, scholar or denizen of academia who wish to focus on their studies without interruption. Study and sleep. Rinse and repeat. — Mount Holly Directory Dormitory is one of the rooms found in Blue Prince .",
+      "unlock": "Random chance in Drafting Studio . \u201c These small sleeping quarters, devoid of frills and distractions, are ideal for the student, scholar or denizen of academia who wish to focus on their studies without interruption. Study and sleep. Rinse and repeat. \u2014 Mount Holly Directory Dormitory is one of the rooms found in Blue Prince .",
       "secrets": [],
       "icon": "icons/092-dormitory.png"
     },
@@ -2184,7 +2184,7 @@
       "cost": "Unusual",
       "description": "Entering the causes all four of its doors to close, after which one randomly selected door locks and the other three unlock. Be wary as this room can drain all of your Keys quickly if you use it as a navigation hub. Instead of using a Key , you can also exit and enter the vestibule again. This allows you to use Steps instead of",
       "directoryBlurb": "An ornately framed yet modestly sized hall. It had served as the original antechamber in the old days before eventually being removed from the estate for having doors that were prone to becoming stuck.",
-      "unlock": "Random chance in Drafting Studio . “ An ornately framed yet modestly sized hall. It had served as the original antechamber in the old days before eventually being removed from the estate for having doors that were prone to becoming stuck. — Mount Holly Directory Vestibule is one of the rooms found in Blue Prince .",
+      "unlock": "Random chance in Drafting Studio . \u201c An ornately framed yet modestly sized hall. It had served as the original antechamber in the old days before eventually being removed from the estate for having doors that were prone to becoming stuck. \u2014 Mount Holly Directory Vestibule is one of the rooms found in Blue Prince .",
       "secrets": [
         "Synergies",
         "Drafting the",
@@ -2212,7 +2212,7 @@
       "cost": "Unusual",
       "description": "The Casino has several simple slot machines providing a basic gambling experience. There is an experimental 6th slot machine; however, one of the staff appears to have broken it, likely leading to the shelving of this particular floorplan. For those seeking a greater thrill, the Roulette table accepts larger bets. Without a dedicated staff, this can usually only accommodate a single bet before needing maintenance. Slot Machine The primary slot machine in the Casino offers several distinct winning combinations. Each spin may result in the following outcomes: Symbol Combination Reward/Effect",
       "directoryBlurb": "The Mount Holly Casino offers an intimate and exciting setting for wagers of any scale, and guests may be surprised to discover how much strategy is involved in the games featured here. A buy-in of two Gems is required for admittance into this exclusive room.",
-      "unlock": "Random chance in Drafting Studio . “ The Mount Holly Casino offers an intimate and exciting setting for wagers of any scale, and guests may be surprised to discover how much strategy is involved in the games featured here. A buy-in of two Gems is required for admittance into this exclusive room. — Mount Holly Directory Casino is one of the rooms found in Blue Prince .",
+      "unlock": "Random chance in Drafting Studio . \u201c The Mount Holly Casino offers an intimate and exciting setting for wagers of any scale, and guests may be surprised to discover how much strategy is involved in the games featured here. A buy-in of two Gems is required for admittance into this exclusive room. \u2014 Mount Holly Directory Casino is one of the rooms found in Blue Prince .",
       "secrets": [
         "The 6th Machine",
         "**WARNING**",
@@ -2292,7 +2292,7 @@
       "cost": "Unusual",
       "description": "Its coin reward increases by 5 Gold for each time that the room has been previously drafted. However, it will not increase beyond 160 coins. The floorplan for Treasure Trove is found by solving the Rotating Gear Puzzle . There is also a colored chest in this room, which contains a colored note. Much like the chests found in The Reservoir",
       "directoryBlurb": "Turns out the oft rumored \"Treasure of Mount Holly\" was more than just a rumor.",
-      "unlock": "Found on the second floor of Rotating Gear behind a locked gate. “ Turns out the oft rumored \"Treasure of Mount Holly\" was more than just a rumor. — Mount Holly Directory Treasure Trove is one of the rooms found in Blue Prince .",
+      "unlock": "Found on the second floor of Rotating Gear behind a locked gate. \u201c Turns out the oft rumored \"Treasure of Mount Holly\" was more than just a rumor. \u2014 Mount Holly Directory Treasure Trove is one of the rooms found in Blue Prince .",
       "secrets": [
         "Coin Purse",
         "Collection",
@@ -2349,7 +2349,7 @@
       "cost": "Standard",
       "description": "Tunnel is a boring hallway; it's a hallway that bores holes in the house. When drafting in the , another Tunnel will always be drawn, with no limit other than the size of the manor. This way, a player could in theory access the Antechamber very easily and quickly. This room can only be drafted facing North or South.",
       "directoryBlurb": "Going under all obstacles, the tunnel pierces through walls and rooms alike. This crudely excavated passage looks to be the work of someone determined to get where they are going regardless of whether the house's floor plan is accommodating or not.",
-      "unlock": "Find on the estate to permanently unlock this draft. “ Going under all obstacles, the tunnel pierces through walls and rooms alike. This crudely excavated passage looks to be the work of someone determined to get where they are going regardless of whether the house's floor plan is accommodating or not. — Mount Holly Directory Tunnel is one of the rooms found in Blue Prince .",
+      "unlock": "Find on the estate to permanently unlock this draft. \u201c Going under all obstacles, the tunnel pierces through walls and rooms alike. This crudely excavated passage looks to be the work of someone determined to get where they are going regardless of whether the house's floor plan is accommodating or not. \u2014 Mount Holly Directory Tunnel is one of the rooms found in Blue Prince .",
       "secrets": [
         "Floorplan Location",
         "This floorplan can be found in the",
@@ -2378,7 +2378,7 @@
       "cost": "Unusual",
       "description": "The Conservatory is one of the very few ways to adjust the rarity of floorplans, and the only one that can change the rarity of any type of floorplan. A selection of three random floorplans will be shown here, and can be changed as many times as desired. While in this room, you can also open your room directory and reset the rarity of rooms back to their default. Contains the Conservatory Note on the left shelf.",
       "directoryBlurb": "This baroque arboretum showcases and preserves the rarest specimens of every type and variety. Through selective propagation, the gardener here may influence which flora (or floora) will be considered commonplace during the next season.",
-      "unlock": "Find on the estate to permanently unlock this draft. “ This baroque arboretum showcases and preserves the rarest specimens of every type and variety. Through selective propagation, the gardener here may influence which flora (or floora) will be considered commonplace during the next season. — Mount Holly Directory The Conservatory is one of the rooms found in Blue Prince .",
+      "unlock": "Find on the estate to permanently unlock this draft. \u201c This baroque arboretum showcases and preserves the rarest specimens of every type and variety. Through selective propagation, the gardener here may influence which flora (or floora) will be considered commonplace during the next season. \u2014 Mount Holly Directory The Conservatory is one of the rooms found in Blue Prince .",
       "secrets": [
         "Moving To A New Floor(plan)",
         "The hint for this floorplan's location is hidden within the",
@@ -2462,7 +2462,7 @@
       "cost": "Unusual",
       "description": null,
       "directoryBlurb": "A simple shed with a variety of tools used by the groundskeepers in the course of their duties.",
-      "unlock": "West Gate Path “ A simple shed with a variety of tools used by the groundskeepers in the course of their duties. — Mount Holly Directory Toolshed is one of the rooms found in Blue Prince .",
+      "unlock": "West Gate Path \u201c A simple shed with a variety of tools used by the groundskeepers in the course of their duties. \u2014 Mount Holly Directory Toolshed is one of the rooms found in Blue Prince .",
       "secrets": [],
       "icon": "icons/103-toolshed.png"
     },
@@ -2541,7 +2541,7 @@
       "cost": "Unusual",
       "description": "The grants a blessing in return for any amount of gold. The minimum donation is 1 gold and the maximum donation is 80 gold. Blessings There are eight types of blessings. Those being: Blessing of the Dancer - While drafting, you may pay 1 Gem to spin floor plans",
       "directoryBlurb": "A sacred silence permeates this candlelit cavern, whose flickering lights add to the holy aura shining down upon a meditative statue. His stone hands present forth a stone bowl to the devout pilgrim who may wish to make an offering of gold.",
-      "unlock": "Curse Mode “ A sacred silence permeates this candlelit cavern, whose flickering lights add to the holy aura shining down upon a meditative statue. His stone hands present forth a stone bowl to the devout pilgrim who may wish to make an offering of gold. — Mount Holly Directory Shrine is one of the rooms found in Blue Prince .",
+      "unlock": "Curse Mode \u201c A sacred silence permeates this candlelit cavern, whose flickering lights add to the holy aura shining down upon a meditative statue. His stone hands present forth a stone bowl to the devout pilgrim who may wish to make an offering of gold. \u2014 Mount Holly Directory Shrine is one of the rooms found in Blue Prince .",
       "secrets": [
         "Cursed Chest",
         "Smashing open the cursed chest reveals the",
@@ -2570,7 +2570,7 @@
       "cost": "Unusual",
       "description": "is one of the rooms found in Blue Prince . The effect causes two different effects. Any room that normally has a chance of Dig Spots has a higher chance to contain said Dig Spots",
       "directoryBlurb": "An underground store of jarred vegetables and fruits from Mount Holly's gardens. It's always amazing what great things come from a little digging around in the dirt.",
-      "unlock": "West Gate Path “ An underground store of jarred vegetables and fruits from Mount Holly's gardens. It's always amazing what great things come from a little digging around in the dirt. — Mount Holly Directory",
+      "unlock": "West Gate Path \u201c An underground store of jarred vegetables and fruits from Mount Holly's gardens. It's always amazing what great things come from a little digging around in the dirt. \u2014 Mount Holly Directory",
       "secrets": [],
       "icon": "icons/107-root-cellar.png"
     },
@@ -2619,7 +2619,7 @@
       "cost": "Unusual",
       "description": "The Trading Post is a Shop , draftable only in the Outer Room chamber, that allows you to exchange the items in your inventory for different ones. However, Resource Items and some specific Special Items cannot be traded. (A list of untradable Special Items can be found under the",
       "directoryBlurb": "An outpost established on the outskirts of Mount Holly in the era before the new realms. This station allowed the frontiersmen and trappers of these mountains to trade goods and services with the state, the locals and one another.",
-      "unlock": "West Gate Path “ An outpost established on the outskirts of Mount Holly in the era before the new realms. This station allowed the frontiersmen and trappers of these mountains to trade goods and services with the state, the locals and one another. — Mount Holly Directory The Trading Post is one of the rooms found in Blue Prince .",
+      "unlock": "West Gate Path \u201c An outpost established on the outskirts of Mount Holly in the era before the new realms. This station allowed the frontiersmen and trappers of these mountains to trade goods and services with the state, the locals and one another. \u2014 Mount Holly Directory The Trading Post is one of the rooms found in Blue Prince .",
       "secrets": [
         "A Worthy Trade",
         "The expensive items from the",
@@ -2661,6 +2661,96 @@
         "Secret Path 2"
       ],
       "icon": "icons/110-tomb.png"
+    },
+    {
+      "id": 111,
+      "title": "Dead End",
+      "slug": "dead-end",
+      "group": "generic",
+      "groupColor": "gray",
+      "groupOrder": 1,
+      "typeTags": [
+        "Generic"
+      ],
+      "rarity": null,
+      "cost": null,
+      "description": "One opening. Use for dead-end rooms.",
+      "directoryBlurb": "A single-door room. One way in, no way out.",
+      "unlock": null,
+      "secrets": [],
+      "icon": "icons/111-dead-end.png"
+    },
+    {
+      "id": 112,
+      "title": "L-Shaped",
+      "slug": "l-shaped",
+      "group": "generic",
+      "groupColor": "gray",
+      "groupOrder": 2,
+      "typeTags": [
+        "Generic"
+      ],
+      "rarity": null,
+      "cost": null,
+      "description": "Two openings on adjacent sides. Rotate as needed.",
+      "directoryBlurb": "Two doors on perpendicular walls \u2014 a corner connector.",
+      "unlock": null,
+      "secrets": [],
+      "icon": "icons/112-l-shaped.png"
+    },
+    {
+      "id": 113,
+      "title": "I-Shaped Hallway",
+      "slug": "i-shaped-hallway",
+      "group": "generic",
+      "groupColor": "gray",
+      "groupOrder": 3,
+      "typeTags": [
+        "Generic"
+      ],
+      "rarity": null,
+      "cost": null,
+      "description": "Two openings on opposite sides. A straight-through passage.",
+      "directoryBlurb": "Two doors on opposing walls \u2014 a straight hallway.",
+      "unlock": null,
+      "secrets": [],
+      "icon": "icons/113-i-shaped-hallway.png"
+    },
+    {
+      "id": 114,
+      "title": "T-Shaped",
+      "slug": "t-shaped",
+      "group": "generic",
+      "groupColor": "gray",
+      "groupOrder": 4,
+      "typeTags": [
+        "Generic"
+      ],
+      "rarity": null,
+      "cost": null,
+      "description": "Three openings. A branching junction.",
+      "directoryBlurb": "Three doors \u2014 a T-junction connecting three paths.",
+      "unlock": null,
+      "secrets": [],
+      "icon": "icons/114-t-shaped.png"
+    },
+    {
+      "id": 115,
+      "title": "+ Shaped",
+      "slug": "plus-shaped",
+      "group": "generic",
+      "groupColor": "gray",
+      "groupOrder": 5,
+      "typeTags": [
+        "Generic"
+      ],
+      "rarity": null,
+      "cost": null,
+      "description": "Four openings. A full crossroads.",
+      "directoryBlurb": "Four doors \u2014 a crossroads connecting all cardinal directions.",
+      "unlock": null,
+      "secrets": [],
+      "icon": "icons/115-plus-shaped.png"
     }
   ]
 }

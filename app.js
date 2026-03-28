@@ -53,7 +53,7 @@ function allCellIds() {
 async function init() {
   let data;
   try {
-    const res = await fetch(`${ASSETS}/rooms.json`);
+    const res = await fetch(`${ASSETS}/rooms.json?v=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     data = await res.json();
   } catch (e) {
@@ -70,7 +70,19 @@ async function init() {
   state.rooms = data.rooms;
   buildLibrary();
   buildMap();
+  setDefaults();
   bindGlobalEvents();
+  clearInfo();
+}
+
+// ── Defaults ─────────────────────────────────────────────────────────────────
+
+function setDefaults() {
+  const entranceHall = state.rooms.find(r => r.slug === 'entrance-hall');
+  const antechamber  = state.rooms.find(r => r.slug === 'antechamber');
+  if (entranceHall) place(entranceHall.id, 'C1', 0);
+  if (antechamber)  place(antechamber.id,  'C9', 0);
+  state.selected = null;
   clearInfo();
 }
 
@@ -139,7 +151,7 @@ function makeMenuTile(r) {
 
   const lbl = document.createElement('div');
   lbl.className = 'menu-tile-label';
-  lbl.textContent = r.title;
+  lbl.textContent = `${r.title} (${r.id})`;
   tile.appendChild(lbl);
 
   tile.addEventListener('dragstart', e => {
@@ -345,7 +357,7 @@ function showInfo(roomId) {
 
   byId('room-info').innerHTML = `
     <img class="info-tile-img" src="${ASSETS}/${r.icon}" alt="${esc(r.title)}">
-    <div class="info-title" style="color:${color}">${esc(r.title)}</div>
+    <div class="info-title" style="color:${color}">${esc(r.title)} <span class="info-id">(${r.id})</span></div>
     <div class="info-tags">${tags}</div>
     <div class="info-group" style="color:${color}">${esc(fmtGroup(r.group))}</div>
     ${r.directoryBlurb
